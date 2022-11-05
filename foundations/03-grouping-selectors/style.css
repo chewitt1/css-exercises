@@ -1,0 +1,13 @@
+.one, .two{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif; /* Times New Roman is a serif font so this is a bit odd. It fell back on sans serif*/
+}
+
+.one{
+    background-color: black;
+    color: white;
+}
+
+.two{
+    background-color: #ffff00;
+}
