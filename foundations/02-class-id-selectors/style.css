@@ -1,0 +1,19 @@
+/* I used the Power Toys Color Picker to get the colors- I didn't guess/cheat */
+.odd{
+    background-color: #ffa7a7;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blue{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#big, #four{ /* Practicing my group selector skills */
+    font-size: 24px;
+}
+
+#four{
+    background-color: #80ff80;
+    font-weight: bold;
+}
